@@ -2,7 +2,7 @@
 This repository documents OET's mapping process of electricity infrastructure using OpenStreetMap (OSM) and other sources. It provides guidelines, data sources, and country-specific assessments while continuously updating mapping efforts worldwide.
 
 ## Overview
-This repository documents the process of mapping electricity infraestructure such as transmission towers/lines, generators, substations and transformes using OpenStreetMap (OSM) and various other sources. It includes guidance on data sources, mapping tools, challenges encountered, and insights about different countries' mapping feasibility. Additionally, it focuses on continuously updating and expanding mapping efforts within specific countries or regions.
+This repository documents the process of mapping electricity infraestructure such as transmission towers/lines/poles above 90 kV, generators, substations and transformers using OpenStreetMap (OSM) and various other sources. It includes guidance on data sources, mapping tools, challenges encountered, and insights about different countries' mapping feasibility. Additionally, it focuses on continuously updating and expanding mapping efforts within specific countries or regions.
 
 ## Repository Structure
 ```
