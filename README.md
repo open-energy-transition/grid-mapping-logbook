@@ -6,7 +6,7 @@ This repository documents the process of mapping electricity infraestructure suc
 
 ## Repository Structure
 ```
-📂 transmission-grid-mapping
+📂 power-mapping-osm
 │── 📄 README.md (This file)
 │── 📂 data-sources/ (Information on datasets and APIs used)
 │── 📂 mapping-guides/ (Step-by-step mapping tutorials)
@@ -49,3 +49,4 @@ This repository documents the process of mapping electricity infraestructure suc
 - Open pull requests with mapping improvements, Overpass Turbo query limitations, and edge cases found.
 - Share country-specific updates to help improve the overall quality of transmission grid mapping.
 - Follow best practices outlined in the repository.
+- Visualize your contributions heatmap (https://yosmhm.neis-one.org/#)
