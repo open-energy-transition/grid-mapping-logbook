@@ -7,7 +7,7 @@ This repository documents the process of mapping electricity infraestructure suc
 ## Repository Structure
 ```
 📂 power-mapping-osm
-│── 📄 README.md (This file)
+│── 📄 README.md
 │── 📂 data-sources/ (Information on datasets and APIs used)
 │── 📂 mapping-guides/ (Step-by-step mapping tutorials)
 │── 📂 country-assessments/ (Country-specific mapping feasibility reports)
