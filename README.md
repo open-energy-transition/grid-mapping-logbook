@@ -12,7 +12,7 @@ This repository documents the process of mapping electricity infraestructure suc
 │── 📂 mapping-guides/ (Step-by-step mapping tutorials)
 │── 📂 country-assessments/ (Country-specific mapping feasibility reports)
 │── 📂 updates/ (Latest updates and new findings by country or region)
-│── 📂 scripts/ (Automation tools and scripts for data processing)
+│── 📂 scripts/ (Automation tools, overpass turbo for specific querys/updates, and scripts for data processing)
 │── 📂 images/ (Screenshots and visual guides)
 ```
 
