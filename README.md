@@ -18,7 +18,7 @@ This repository documents the process of mapping electricity infraestructure suc
 
 ## Mapping Process
 1. **Identify Data Sources**
-   - OSM data via Overpass API
+   - OSM data via Overpass API [OET overpass turbo initial query](https://github.com/open-energy-transition/Awesome-Electric-Grid-Mapping](https://github.com/open-energy-transition/grid-mapping-starter-kit/blob/main/josm-config/transmission-grid.overpassql)
    - Satellite imagery (e.g., Bing, Mapbox, Esri, Sentinel-2)
    - Official grid infrastructure government reports or open datasets [Please check our list of resources](https://github.com/open-energy-transition/Awesome-Electric-Grid-Mapping)
    - Utility company reports (if available)
@@ -41,7 +41,6 @@ This repository documents the process of mapping electricity infraestructure suc
   - Newly mapped transmission lines or substations.
   - Any challenges faced while mapping.
   - Data quality improvements and missing metadata.
-  - Overpass Turbo query enhancements.
   - New tools or methodologies tested.
 
 ## Contributions
