@@ -23,13 +23,20 @@ Please provide an screenshot of latest state of the grid.
 ## Were the satellite images good enough in all areas for mapping? If no, in which area you were missing better data?
 The satellite images were not that good for most regions, so I had to combine all sources available. In particular, the densely populated areas and the centrally located substations made grid mapping very hard. Some towers I could spot using Mapillary. 
 
-## Please provide a personal estimation of the grid quality before and after your mapping quality. 
-Before my mapping activity the grid map quality was quite pure. 2 hydro power plants were not connected to the grid. 1 combustion power plants was also not connected to the grid. I was able to fill multiple holes in the grid and I could add many substations. In particular, in the south-east there is still a part of the grid with a larger power plant, which is connected to the national grid based on official TSO maps, but I could not establish a connection here due to poor satellite images. 
+## Please provide a personal estimation of the grid quality before and after your mapping quality. What are success stories you can tell?
+Before my mapping activity the grid map quality was quite mediocre. 
+
+**Success Stories** 
+1. Two hydro power plants were connected to the grid.
+2. One combustion power was connected to the grid.
+3. I was able to fill multiple large holes in the grid
+4. Add many substations that I could see clearly in the satellite images. 
 
 ## In which area and in which aspects could the grid map been improved?
-1. Many urban towers are still missing and lines could not connected to substations here. 
-2. Also the grid still has some line splits and routing that is still not fixed. 
-3. For some lines voltages are still missing. 
+1. In the south-east there is still a part of the grid with a larger power plant, which is connected to the national grid based on official TSO maps, but I could not establish a connection here due to poor satellite images. 
+2. Many urban towers are still missing and lines could not be connected to substation in urban areas. 
+3. The grid still has some line splits and routing issues that still needs to be fixed. 
+4. For some lines voltages are still missing. 
 
 ## Mapping Strategies
 Please provide the different mapping strategies you have used. 
