@@ -7,7 +7,7 @@ This repository documents the process of mapping electricity infrastructure such
 ## Repository Structure
 ```
 📂 power-mapping-osm
-│── Nigeria
+│📂── Nigeria
    │── 📄 Nigeria_v0.md
    │── 📂 images/ 
 ```
