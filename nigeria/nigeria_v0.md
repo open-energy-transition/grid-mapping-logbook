@@ -46,9 +46,9 @@ Please provide the different mapping strategies you have used.
 ## Mapping Datasets
 What mapping datasets have you used as a hint layer? Please provide links to the data.
 
-1. Substations dataset: https://data.grid3.org/datasets/4eed11fbbdd34779be446296208c6cbe_0/explore?location=7.753760%2C7.255227%2C6.99
-2. THE ENERGY YEAR Nigeria Grid Map 2021: https://d3jmgibn6sgz2k.cloudfront.net/wp-content/uploads/2021/11/09164603/TCN_Nigeria21.pdf
-3. Transmission Company of Nigeria - Offical Grid Map: https://nsong.org/App_Themes/Blue/images/NationalGrid.png
+1. [Substations dataset](https://data.grid3.org/datasets/4eed11fbbdd34779be446296208c6cbe_0/explore?location=7.753760%2C7.255227%2C6.99)
+2. [THE ENERGY YEAR Nigeria Grid Map 2021](https://d3jmgibn6sgz2k.cloudfront.net/wp-content/uploads/2021/11/09164603/TCN_Nigeria21.pdf)
+3. [Transmission Company of Nigeria - Offical Grid Map](https://nsong.org/App_Themes/Blue/images/NationalGrid.png)
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://raw.githubusercontent.com/open-energy-transition/grid-mapping-starter-kit/refs/heads/main/scripts/mapping_progress.overpassql).
