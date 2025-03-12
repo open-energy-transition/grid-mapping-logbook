@@ -1,19 +1,15 @@
 # Grid Mapping Logbook
-This repository documents OET's mapping process of electricity infrastructure using OpenStreetMap (OSM) and other sources. It provides guidelines, data sources, and country-specific assessments while continuously updating mapping efforts worldwide.
+This repository documents OET's mapping process of electricity infrastructure using OpenStreetMap (OSM).
 
 ## Overview
-This repository documents the process of mapping electricity infraestructure such as transmission towers/lines/poles above 90 kV, generators, substations and transformers using OpenStreetMap (OSM) and various other sources. It includes guidance on data sources, mapping tools, challenges encountered, and insights about different countries' mapping feasibility. Additionally, it focuses on continuously updating and expanding mapping efforts within specific countries or regions.
+This repository documents the process of mapping electricity infraestructure such as transmission towers/lines/poles above 90 kV, generators, substations and transformers using OpenStreetMap (OSM). It includes guidance on data sources, mapping tools, challenges encountered, and insights about different countries' mapping feasibility. Additionally, it focuses on continuously updating and expanding mapping efforts within specific countries or regions.
 
 ## Repository Structure
 ```
 📂 power-mapping-osm
-│── 📄 README.md
-│── 📂 data-sources/ (Information on datasets and APIs used)
-│── 📂 mapping-guides/ (Step-by-step mapping tutorials)
-│── 📂 country-assessments/ (Country-specific mapping feasibility reports)
-│── 📂 updates/ (Latest updates and new findings by country or region)
-│── 📂 scripts/ (Automation tools, overpass turbo for specific querys/updates, and scripts for data processing)
-│── 📂 images/ (Screenshots and visual guides)
+│── Nigeria
+   │── 📄 Nigeria_v0.md
+   │── 📂 images/ (Screenshots and visual guides)
 ```
 
 ## Mapping Process
