@@ -23,7 +23,7 @@ Please provide an screenshot of latest state of the grid.
 Satellite images were of good quality on bing imagery and sometimes Esri but slightly outdated. Many 2024 real-life developments could not be seen.
 
 ## Please provide a personal estimation of the grid quality before and after your mapping quality. What are success stories you can tell?
-Before my mapping activity the grid map quality was relatively good. A few substations and lines were missing metadata, and several power lines had to be fixed.
+Before my mapping activity the grid map quality was relatively good. A few substations and lines were missing metadata, and several power lines had to be fixed or finished such as a 500kv line.
 
 **Success Stories**
 1. The only current 500kv line in Bolivia was finalised and connected.
