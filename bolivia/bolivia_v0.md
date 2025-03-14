@@ -54,4 +54,4 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 3. [Transmission grid map of **Bolivia**2024](https://geoportal.mhe.gob.bo/layers/geonode:transmision_sin_20220810/layer_export#/)
 
 ## Map Progress
-![alt text](</images/DeltaBolivia.png>)
+![alt text](<images/DeltaBolivia.png>)
