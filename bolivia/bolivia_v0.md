@@ -54,4 +54,5 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 3. [Transmission grid map of **Bolivia**2024](https://geoportal.mhe.gob.bo/layers/geonode:transmision_sin_20220810/layer_export#/)
 
 ## Map Progress
+Caveat: The overpass query used searches for modifications by a user. So some sections of the 220kv line and 500kv line were not mapped by me, but extended/finalised.
 ![alt text](<images/DeltaBolivia.png>)
