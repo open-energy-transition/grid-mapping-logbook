@@ -55,4 +55,5 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 
 ## Map Progress
 Caveat: The overpass query used searches for modifications by a user. So some sections of the 220kv line and 500kv line were not mapped by me, but extended/finalised.
+
 ![alt text](<images/DeltaBolivia.png>)
