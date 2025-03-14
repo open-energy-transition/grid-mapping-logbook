@@ -52,3 +52,6 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 1. [Instructivos de restitución del SIN (Sistema Interconectado Nacional) de **Bolivia**](https://www.cndc.bo/media/archivos/normas/Instructivos_de_Restitucion_del_SIN.pdf)
 2. [Subestaciones en **Bolivia**](https://www.scribd.com/document/425875074/Subestaciones-en-Bolivia)
 3. [Transmission grid map of **Bolivia**2024](https://geoportal.mhe.gob.bo/layers/geonode:transmision_sin_20220810/layer_export#/)
+
+## Map Progress
+![alt text](</images/DeltaBolivia.png>)
