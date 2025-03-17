@@ -1,4 +1,4 @@
-# Mapping Progress - Uganda 
+# Uganda 
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).
