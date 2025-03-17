@@ -1,4 +1,4 @@
-# Mapping Progress - Kenya 
+# Kenya 
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://raw.githubusercontent.com/open-energy-transition/grid-mapping-starter-kit/refs/heads/main/scripts/mapping_progress.overpassql).
