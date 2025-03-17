@@ -1,4 +1,4 @@
-# Mapping Progress - Bolivia
+# Bolivia
 
 ## Map Progress
 Caveat: The overpass query used searches for modifications by a user. So some sections of the 220kv line and 500kv line were not mapped by me, but extended/finalised.
