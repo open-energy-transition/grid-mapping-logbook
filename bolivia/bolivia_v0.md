@@ -1,9 +1,9 @@
 # Mapping Progress - Bolivia
 
-## State of the Map
-Please provide an screenshot of latest state of the grid.
+## Map Progress
+Caveat: The overpass query used searches for modifications by a user. So some sections of the 220kv line and 500kv line were not mapped by me, but extended/finalised.
 
-![alt text](<images/Bolivia%202025-03-14%2009-26-23.png>)
+![alt text](<images/DeltaBolivia.png>)
 
 ## Timespan of Mapping
 01.3.2025 - 13.3.2025
@@ -53,7 +53,8 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 2. [Subestaciones en **Bolivia**](https://www.scribd.com/document/425875074/Subestaciones-en-Bolivia)
 3. [Transmission grid map of **Bolivia**2024](https://geoportal.mhe.gob.bo/layers/geonode:transmision_sin_20220810/layer_export#/)
 
-## Map Progress
-Caveat: The overpass query used searches for modifications by a user. So some sections of the 220kv line and 500kv line were not mapped by me, but extended/finalised.
+## State of the Map
+Please provide an screenshot of latest state of the grid.
 
-![alt text](<images/DeltaBolivia.png>)
+![alt text](<images/Bolivia%202025-03-14%2009-26-23.png>)
+

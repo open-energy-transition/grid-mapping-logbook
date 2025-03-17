@@ -1,9 +1,8 @@
 # Mapping Progress - Kenya 
 
-## State of the Map
-Please provide an screenshot of latest state of the grid.
-
-![alt text](<images/kenya-2025-03-14-10-25-39.png>)
+## Map Progress
+Please provide an image of changes made using the following overpass script provided [here](https://raw.githubusercontent.com/open-energy-transition/grid-mapping-starter-kit/refs/heads/main/scripts/mapping_progress.overpassql).
+![alt text](<images/delta-kenya-2025-03-14-10-22-52.png>)
 
 ## Timespan of Mapping
 26.12.2024 - 14.3.2025
@@ -54,7 +53,8 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 1. [KETRACO Transmission Master Plan 2023/2042 of **Kenya**](https://drive.google.com/file/d/1p_j3pJT4sdOcxo1Msfo180yLEQYjj8hA/view)
 2. [Kenya - Primary Substations](https://energydata.info/dataset/kenya-primary-substations)
 
-## Map Progress
-Please provide an image of changes made using the following overpass script provided [here](https://raw.githubusercontent.com/open-energy-transition/grid-mapping-starter-kit/refs/heads/main/scripts/mapping_progress.overpassql).
-![alt text](<images/delta-kenya-2025-03-14-10-22-52.png>)
+## State of the Map
+Please provide an screenshot of latest state of the grid.
+
+![alt text](<images/kenya-2025-03-14-10-25-39.png>)
 

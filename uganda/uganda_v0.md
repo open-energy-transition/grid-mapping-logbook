@@ -2,10 +2,10 @@
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).
-![alt text](<images/delta-nigeria-2025-03-12 16-07-06.png>)
+![alt text](<images/delta-uganda-2025-03-17 11-18-24.png>)
 
 ## Timespan of Mapping
-26.2.2025 - 12.3.2025
+13.3.2025 - 17.3.2025
 
 ## Username of the Mappers Involved 
 1. https://www.openstreetmap.org/user/Tobias%20Augspurger
@@ -20,22 +20,18 @@ Please provide an image of changes made using the following overpass script prov
 - [ ] Something else 
 
 ## Were the satellite images good enough in all areas for mapping? If no, in which area you were missing better data?
-The satellite images were not that good for most regions, so I had to combine all sources available. In particular, the densely populated areas and the centrally located substations made grid mapping very hard. Some towers I could spot using Mapillary. 
+The satellite images were not that good for most regions, so I had to combine all sources available. For some regions all satellite data was very old.
 
 ## Please provide a personal estimation of the grid quality before and after your mapping quality. What are success stories you can tell?
-Before my mapping activity the grid map quality was quite mediocre. 
+Before my mapping activity the grid map quality was quite good but larger part of the grid have been expended. This new lines have been added. 
 
 **Success Stories** 
-1. Two hydro power plants were connected to the grid.
-2. One combustion power was connected to the grid.
-3. I was able to fill multiple large holes in the grid
-4. Add many substations that I could see clearly in the satellite images. 
-
+1. Connected one hydro power plant.
+2. Extended the grid into the north.
+ 
 ## In which area and in which aspects could the grid map been improved?
-1. In the south-east there is still a part of the grid with a larger power plant, which is connected to the national grid based on official TSO maps, but I could not establish a connection here due to poor satellite images. 
-2. Many urban towers are still missing and lines could not be connected to substation in urban areas. 
-3. The grid still has some line splits and routing issues that still needs to be fixed. 
-4. For some lines voltages are still missing. 
+1. The new lines in the north-west are still under construction based on the satellite images. That is why only towers were placed. For a larger gab in between the satellite images were very old.
+2. Voltages from most of new lines are still missing. 
 
 ## Mapping Strategies
 Please provide the different mapping strategies you have used. 
@@ -52,11 +48,10 @@ Please provide the different mapping strategies you have used.
 ## Mapping Datasets
 What mapping datasets have you used as a hint layer? Please provide links to the data.
 
-1. [Substations dataset](https://data.grid3.org/datasets/4eed11fbbdd34779be446296208c6cbe_0/explore?location=7.753760%2C7.255227%2C6.99)
-2. [THE ENERGY YEAR Nigeria Grid Map 2021](https://d3jmgibn6sgz2k.cloudfront.net/wp-content/uploads/2021/11/09164603/TCN_Nigeria21.pdf)
-3. [Transmission Company of Nigeria - Offical Grid Map](https://nsong.org/App_Themes/Blue/images/NationalGrid.png)
+1. [Transmission Lines 2017 GeoJSON](https://energydata.info/dataset/uganda-electricity-transmission-network-2017/resource/e2643a0e-bad9-4644-b925-f6bc3e3f1db9)
+2. [GIS for the Energy Sector of Uganda](https://energy-gis.ug/gis-maps)
 
 ## State of the Map
 Please provide an screenshot of latest state of the grid.
 
-![alt text](<images/Nigeria-2025-03-12 16-10-50.png>)
+![alt text](<images/uganda-2025-03-17 11-33-04.png>)
