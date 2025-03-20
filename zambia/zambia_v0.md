@@ -2,7 +2,7 @@
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).
-![alt text](<delta-zambia-2025-03-20.png>)
+![alt text](<images/delta-zambia-2025-03-20.png>)
 
 ## Timespan of Mapping
 01.01.2025 - 20.3.2025
@@ -57,4 +57,4 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 ## State of the Map
 Please provide an screenshot of latest state of the grid.
 
-![alt text](<zambia-2025-03-20.png>)
+![alt text](<images/zambia-2025-03-20.png>)
