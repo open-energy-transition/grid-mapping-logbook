@@ -69,7 +69,7 @@ Please provide the different mapping strategies you have used.
 ## Mapping Datasets
 What mapping datasets have you used as a hint layer? Please provide links to the data.
 
-1. [Nepal Electricity Authority Annual Report **Tanzania**](https://www.nea.org.np/admin/assets/uploads/annual_publications/NEA_Annual_Report_2081_New.pdf) - (**Includes capacity data**)
+1. [Nepal Electricity Authority Annual Report](https://www.nea.org.np/admin/assets/uploads/annual_publications/NEA_Annual_Report_2081_New.pdf) - (**Includes capacity data**)
 
 This hint layer includes a map of the grid and a complete list of all projects.
 
