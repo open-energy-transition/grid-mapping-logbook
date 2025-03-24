@@ -2,7 +2,7 @@
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).
-![alt text]()
+![alt text](https://github.com/open-energy-transition/grid-mapping-logbook/blob/main/nepal/images/Screenshot%20from%202025-03-24%2016-24-24.png)
 
 ## Timespan of Mapping
 19.03.2025 - 24.03.2025
@@ -76,4 +76,4 @@ This hint layer includes a map of the grid and a complete list of all projects.
 ## State of the Map
 Please provide an screenshot of latest state of the grid.
 
-![alt text]()
+![alt text](https://github.com/open-energy-transition/grid-mapping-logbook/blob/main/nepal/images/Screenshot%20from%202025-03-24%2016-24-36.png)
