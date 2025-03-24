@@ -29,7 +29,7 @@ Now, the grid is almost up-to-date with what can be done with the current satell
 
 **Success Stories** 
 1. Found and mapped a 132kv interconnection with India.
-2. Added 2400 towers, and 46 substations (a few were adding the voltage and the name).
+2. Added 2400 towers, and 46 substations.
 3. Mapped numerous power plants adding up to 980 MW, which is 78% of Nepal's total capacity mapped in OSM.
 4. Finalised many lines, including 400kv lines.
 
