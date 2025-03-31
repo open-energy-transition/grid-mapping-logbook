@@ -54,6 +54,9 @@ The following improvements can be made (finishing lines when satellite data is b
 
 Tingla 132kv, Dhalkebar 400kv substation could be cleaned up. Hydropower stations could be better mapped.
 
+## Misc
+Beware with dates in official Nepalese papers as they do not use the same Gregorian calendar (2025). 
+
 ## Mapping Strategies
 Please provide the different mapping strategies you have used. 
 
