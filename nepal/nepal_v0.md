@@ -48,7 +48,7 @@ The following improvements can be made (finishing lines when satellite data is b
 11) Mirchaiya to Tingla 132kv
 12) Barhabise to New Khimti 400kv
 13) Lamosangu substation to Barhabisse 132kv
-14) Pokhara (Leknath) to Syangja 132kv
+14) Pokhara (Leknath) to Syangja 132kv *IMPORTANT
 15) 132kv line from Kohallpur to Surkhet
 16) 400kv line Barhabise to Lapsiphedi
 
