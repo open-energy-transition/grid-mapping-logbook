@@ -52,6 +52,7 @@ The following improvements can be made (finishing lines when satellite data is b
 15) 132kv line from Kohallpur to Surkhet
 16) 400kv line Barhabise to Lapsiphedi
 17) Kathmandu area needs sorting
+18) Hetauda line which goes ?
 
 Tingla 132kv, Dhalkebar 400kv substation could be cleaned up. Hydropower stations could be better mapped.
 
