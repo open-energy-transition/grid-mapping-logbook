@@ -2,6 +2,7 @@
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).<br>
+
 ![alt text](https://github.com/open-energy-transition/grid-mapping-logbook/blob/main/nepal/images/Screenshot%20from%202025-04-07%2012-39-17.png)
 
 ## Timespan of Mapping
