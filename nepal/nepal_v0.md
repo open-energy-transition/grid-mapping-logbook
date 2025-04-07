@@ -29,30 +29,28 @@ Now, the grid is almost up-to-date with what can be done with the current satell
 
 **Success Stories** 
 1. Found and mapped a 132kv interconnection with India.
-2. Added 2400 towers, and 46 substations.
+2. Added 3134 towers, and almost 50 substations (either found, or important metadata was added).
 3. Mapped numerous power plants adding up to 980 MW, which is 78% of Nepal's total capacity mapped in OSM.
-4. Finalised many lines, including 400kv lines.
+4. Finalised and found many lines, including 400kv lines.
+5. Connected two substations to each other which were important for the connectivity of the entire grid.
 
 ## In which area and in which aspects could the grid map been improved?
 The following improvements can be made (finishing lines when satellite data is better):
 1) Jhimruk dam to Lamahi substation 132kv
 2) Finish Motipur-Sandikharka-Tamgash 132kv line
 3) Finish New Butwal-Kusma 220kv line
-4) Finish New Bharatpur to New Hetauda 220kv line
-5) Udipur-Kritipur 132kv (hard routing area)
+5) Udipur-Kritipur 132kv 
 6) Middle Marsyangadi to Upper Marsyangadi 132kv line
 7) Inaruwa to Basantapur 220kv not finished
 8) Baneshwor 220kv to Basantapur
 9) Basantapur to Dhungesangu 220kv
 10) Tumnlingtar to Sitalpati 220kv
 11) Mirchaiya to Tingla 132kv
-12) Barhabise to New Khimti 400kv
+12) Barhabise to New Khimti 400kv (a few towers)
 13) Lamosangu substation to Barhabisse 132kv
-14) Pokhara (Leknath) to Syangja 132kv *IMPORTANT
 15) 132kv line from Kohallpur to Surkhet
 16) 400kv line Barhabise to Lapsiphedi
-17) Kathmandu area needs sorting
-18) Hetauda line which goes ?
+18) Hetauda line which goes
 19) Dhalkebar power line unfinished 
 
 Tingla 132kv, Dhalkebar 400kv substation could be cleaned up. Hydropower stations could be better mapped.
