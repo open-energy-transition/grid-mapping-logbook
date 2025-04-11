@@ -78,7 +78,12 @@ What mapping datasets have you used as a hint layer? Please provide links to the
 
 This hint layer includes a map of the grid and a complete list of all projects.
 
-## State of the Map
-Please provide an screenshot of latest state of the grid.
+## State of the Map and progress
+Please provide a screenshot of latest state of the grid.
 
 ![alt text](https://github.com/open-energy-transition/grid-mapping-logbook/blob/main/nepal/images/Screenshot%20from%202025-04-07%2012-39-42.png)
+
+Please provide a screeshot of the state of the grid before you mapped it.
+
+![alt text](https://github.com/open-energy-transition/grid-mapping-logbook/blob/main/nepal/images/Screenshot%20from%202025-04-11%2015-15-21.png)
+
