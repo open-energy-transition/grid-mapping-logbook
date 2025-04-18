@@ -1,9 +1,7 @@
 # Kenya 
 
-<span style="color:red">
 **This page is planed to be moved on the OpenStreetMap wiki.**   
 Please create the appropriate page here: https://wiki.openstreetmap.org/wiki/Power_networks and consider moving all relevant information there.
-</span>
 
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://raw.githubusercontent.com/open-energy-transition/grid-mapping-starter-kit/refs/heads/main/scripts/mapping_progress.overpassql).

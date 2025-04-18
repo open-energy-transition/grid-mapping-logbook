@@ -1,9 +1,7 @@
 # Bolivia
 
-<span style="color:red">
 **This page is planed to be moved on the OpenStreetMap wiki.**   
 Please create the appropriate page here: https://wiki.openstreetmap.org/wiki/Power_networks and consider moving all relevant information there.
-</span>
 
 ## Map Progress
 Caveat: The overpass query used searches for modifications by a user. So some sections of the 220kv line and 500kv line were not mapped by me, but extended/finalised.
