@@ -1,5 +1,8 @@
 # Uganda 
 
+**This page is planed to be moved on the OpenStreetMap wiki.**   
+Please create the appropriate page here: https://wiki.openstreetmap.org/wiki/Power_networks and consider moving all relevant information there.
+
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).
 ![alt text](<images/delta-uganda-2025-03-17 11-18-24.png>)
