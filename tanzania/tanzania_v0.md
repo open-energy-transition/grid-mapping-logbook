@@ -1,5 +1,9 @@
 # Tanzania 
 
+**This page is planed to be moved on the OpenSTreetMap wiki.**  
+You can find it here: https://wiki.openstreetmap.org/wiki/Power_networks/Tanzania  
+Please consider moving all valuable information there prior we remove it completely.
+
 ## Map Progress
 Please provide an image of changes made using the following overpass script provided [here](https://github.com/open-energy-transition/KPI-OSM/tree/main/before_and_after).
 ![alt text](<images/delta-tanzania-2025-03-21-15-38-32.png>)
